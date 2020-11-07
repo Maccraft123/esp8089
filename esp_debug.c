@@ -85,7 +85,7 @@ struct dentry *esp_dump_var(const char *name, struct dentry *parent, void *value
         if(!parent)
                 parent = esp_debugfs_root;
 
-        switch(type) {
+        /*switch(type) {
         case ESP_U8:
                 rc = debugfs_create_u8(name, mode, parent, (u8*)value);
                 break;
@@ -107,7 +107,7 @@ struct dentry *esp_dump_var(const char *name, struct dentry *parent, void *value
                 break;
         default: //32
                 rc = debugfs_create_u32(name, mode, parent, (u32*)value);
-        }
+        }*/
 
         if (!rc)
                 goto Fail;

@@ -1,0 +1,2 @@
+/deb-to-go/build/esp8089//esp_debug.o /deb-to-go/build/esp8089//sdio_sif_esp.o /deb-to-go/build/esp8089//spi_sif_esp.o /deb-to-go/build/esp8089//esp_io.o /deb-to-go/build/esp8089//esp_file.o /deb-to-go/build/esp8089//esp_main.o /deb-to-go/build/esp8089//esp_sip.o /deb-to-go/build/esp8089//esp_ext.o /deb-to-go/build/esp8089//esp_ctrl.o /deb-to-go/build/esp8089//esp_mac80211.o /deb-to-go/build/esp8089//esp_debug.o /deb-to-go/build/esp8089//esp_utils.o /deb-to-go/build/esp8089//esp_pm.o /deb-to-go/build/esp8089//testmode.o
+
